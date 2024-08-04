@@ -13,7 +13,7 @@ To run the code, install the required libraries using:
 pip install tpot
 
 ### Data
-The dataset used is bank_churn_data.csv.
+The dataset used is bank_churn_data  that is in train.csv and test.csv
 
 ### Algorithms
 TPOT automates the optimization of these algorithms, including preprocessing, feature selection, and hyperparameter tuning.
